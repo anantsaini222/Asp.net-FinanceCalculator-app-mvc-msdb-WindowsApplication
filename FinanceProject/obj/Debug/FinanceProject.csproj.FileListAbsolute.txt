@@ -1,0 +1,16 @@
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\bin\Debug\FinanceProject.exe.config
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\bin\Debug\FinanceProject.exe
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\bin\Debug\FinanceProject.pdb
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.csproj.AssemblyReference.cache
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.Properties.Resources.resources
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.csproj.GenerateResource.cache
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.csproj.CoreCompileInputs.cache
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.exe
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.pdb
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.Dashboard.resources
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.Expenses.resources
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.Income.resources
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.Login.resources
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.Users.resources
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.ViewExpense.resources
+C:\Users\ar8i38c\Desktop\Training Assignment\FinanceProject\FinanceProject\obj\Debug\FinanceProject.ViewIncome.resources
